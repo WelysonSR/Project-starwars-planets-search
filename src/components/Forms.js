@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/click-events-have-key-events */
+/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
 import React, { useContext, useState } from 'react';
 import StarContext from '../context/StarContext';
 import Remover from '../images/Remover.png';
