@@ -1,0 +1,27 @@
+/* stylelint-disable linebreaks */
+.btn {
+  margin-left: 10px;
+}
+
+.planet-search {
+  margin: 10px;
+  width: 98%;
+}
+
+.form-label, .form-check-label {
+  color: rgb(209, 208, 208);
+  margin-left: 10px;
+}
+
+.ordenar {
+  margin-left: 120px;
+}
+
+.filter-item {
+  display: flex;
+}
+
+.remover-img {
+  height: 30px;
+  width: 30px;
+}
