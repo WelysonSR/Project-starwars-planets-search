@@ -25,3 +25,7 @@
   height: 30px;
   width: 30px;
 }
+
+.form-control, .form-select {
+  border-color: rgb(255, 208, 0);
+}
