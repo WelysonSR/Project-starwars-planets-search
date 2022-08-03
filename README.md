@@ -1,1 +1,24 @@
-# Boas-vindas ao repositório do projeto Star Wars Planets Search!
+# Projeto Star Wars Planets Search!
+
+# Contexto
+Este projeto trata-se de uma ferramenta que retorna de uma API os planetas de AtarWars podendo efetuar filtro de buscas
+
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: React, Contaxt, CSS
+
+Back-end:
+> API: 'https://swapi-trybe.herokuapp.com/api/planets/'
+
+## Instalando Dependências
+Na pasta do repositório execute os seguintes comandos
+
+```bash
+npm install
+``` 
+## Execute a aplicação localmente
+
+```bash
+npm start
+``` 
