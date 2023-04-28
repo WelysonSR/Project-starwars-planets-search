@@ -12,7 +12,7 @@ Front-end:
 > Desenvolvido usando: React, Contaxt, CSS
 
 Back-end:
-> API: https://swapi-trybe.herokuapp.com/api/planets/
+> API: https://swapi.dev/api/planets
 
 ## Instalando Dependências
 Na pasta do repositório execute os seguintes comandos
