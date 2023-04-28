@@ -24,7 +24,7 @@ function Provider({ children }) {
   useEffect(() => {
     const fetchData = async () => {
       setLoadingFetch(true);
-      const result = await fetch('https://swapi-trybe.herokuapp.com/api/planets/');
+      const result = await fetch('https://swapi.dev/api/planets');
       const { results } = await result.json();
       setData(results);
       setFilteredData(results);
